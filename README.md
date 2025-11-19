@@ -37,7 +37,8 @@ Date-fns
     "react-router": "^7.5.2",
     "tailwindcss": "^4.1.4"
   },
-  "devDependencies": {
+  ## devDependencies
+  "devDependencies": 
     "@eslint/js": "^9.22.0",
     "@types/react": "^19.0.10",
     "@types/react-dom": "^19.0.4",
@@ -47,4 +48,4 @@ Date-fns
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^16.0.0",
     "vite": "^6.3.1"
-  }
+  
