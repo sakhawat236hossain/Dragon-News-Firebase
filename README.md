@@ -9,4 +9,18 @@ Routing using React Router
 
 ESLint configured for clean code
 
-T
+## Technologies Used
+
+React.js
+
+Vite
+
+Tailwind CSS
+
+DaisyUI
+
+React Router
+
+React Fast Marquee
+
+Date-fns
